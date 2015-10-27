@@ -21,6 +21,7 @@ namespace VrepSimpleTest
          int  _handleSick;
          bool _connected = false;
         int test;
+        int test2;
 
 
         public Control()
