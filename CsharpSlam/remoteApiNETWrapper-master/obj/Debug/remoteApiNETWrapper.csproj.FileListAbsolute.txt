@@ -21,3 +21,6 @@ D:\Program Files (x86)\V-REP3\V-REP_PRO_EDU\programming\remoteApiSharedLib\remot
 D:\Desktop\Games\GitHubVisualStudioPublic\CsharpSlam\remoteApiNETWrapper-master\obj\Debug\remoteApiNETWrapper.csprojResolveAssemblyReference.cache
 D:\Desktop\Games\GitHubVisualStudioPublic\CsharpSlam\remoteApiNETWrapper-master\obj\Debug\remoteApiNETWrapper.dll
 D:\Desktop\Games\GitHubVisualStudioPublic\CsharpSlam\remoteApiNETWrapper-master\obj\Debug\remoteApiNETWrapper.pdb
+C:\Users\Gábor\Documents\GitHubVisualStudioPublic2\DllTest2\CsharpSlam\remoteApiNETWrapper-master\obj\Debug\remoteApiNETWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Gábor\Documents\GitHubVisualStudioPublic2\DllTest2\CsharpSlam\remoteApiNETWrapper-master\obj\Debug\remoteApiNETWrapper.dll
+C:\Users\Gábor\Documents\GitHubVisualStudioPublic2\DllTest2\CsharpSlam\remoteApiNETWrapper-master\obj\Debug\remoteApiNETWrapper.pdb

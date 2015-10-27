@@ -20,6 +20,7 @@ namespace VrepSimpleTest
          int _handleLeftMotor, _handleRightMotor;
          int  _handleSick;
          bool _connected = false;
+        int test;
 
 
         public Control()
